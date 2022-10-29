@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/vipuljainit18/Link-Shortner-Bot/blob/main/assets/Acro%20Movie-1%20(3)%20copy.png" alt="GreyMatter's Bot Logo">
+  <img src="https://github.com/vipuljainit18/Link-Shortner-Bot/blob/main/assets/Acro%20Movie-1%20(6).png" alt="GreyMatter's Bot Logo">
 </p>
 <h1 align="center">
   <b>Acro Movie's Bot</b>
