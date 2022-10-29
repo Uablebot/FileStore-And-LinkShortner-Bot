@@ -4,7 +4,6 @@
 - ⟴ Self Delete Added (Auto delete)
 - ⟴ Filter On Off Option Added
 - ⟴ Custom Welcome Message
-- ⟴ URL Shortener Added
 - ⟴ Custom Download Name And URL
 - ⟴ Custom Texts (About, Help, Stats,More..)
 - ⟴ Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
@@ -13,10 +12,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="https://github.com/vipuljainit18/Link-Shortner-Bot/blob/main/assets/Acro%20Movie-1%20(3)%20copy.png" alt="GreyMatter's Bot Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>Acro Movie's Bot</b>
 </h1>
 
 
@@ -40,7 +39,6 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/sources_cods) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -54,7 +52,7 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/AM-ROBOTS/AdvAnurag/blob/main/info.py) for more
+* Check [info.py](https://github.com/vipuljainit18/Link-Shortner-Bot/blob/main/info.py) for more
 ## EXTRA FEATURES
 * `URL_SHORTENR_WEBSITE`: URL Shortener Website Link ( Without https://)
 * `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key
@@ -81,7 +79,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/GreyMattersbot/url-auto-delete-shortener-bot
+git clone https://github.com/vipuljainit18/Link-Shortner-Bot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -119,23 +117,3 @@ broadcast - to broadcast a message to all Eva Maria users
 batch - to create link for multiple posts
 link - to create link for one post
 ```
-## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/greymatters_bots_discussion)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/greymatter_bots)
-
-## Credits 
-* [![ᎯℕUℛᎯᎶ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/sources_cods)
-
-
-## Thanks to 
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To [ᎯℕUℛᎯᎶ](https://telegram.dog/gurubhai11) for his awesome Auto-delete Feature.
- - Thanks To All Everyone In This Journey
-
-### Note
-
-you a Developer.
-Fork the repo and edit as per your needs.
-
-## Inspiration
-🙃
